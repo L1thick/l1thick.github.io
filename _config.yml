@@ -42,7 +42,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rob
+  Hi, my name's Rob. If you're looking at this today, I'm currently working on this page. SHOCKER! - (7/5/21)
 
   I am most skilled with: Microsoft <mark>SCCM</mark> & related Deployment Tools, Cisco <mark>Meraki MDM</mark> w/ Apple Business Manager (<mark>ABM</mark>), Microsoft <mark>Windows 10</mark> & Apple <mark>macOS/ iOS</mark>.
 
