@@ -73,24 +73,28 @@ content:
             So, what I did:
             1. Supported Windows XP, 7, 8.x, & 10, macOS, iOS, and Android systems.
             2. Supported BYOD systems for end users and citizens.
-            3. Built and managed PC images and application deployments with Windows SCCM, MDT, PXE, USMT, UDI, Software Center, and related technologies.
-            4. VMWorkstation, ESXi, vSphere, and Hyper-V virtual environments.
-            5. Configured remote deployment & inventory management tools for Windows iOS & Android Devices through Cisco Meraki MDM, Android for Work, and Apple Business Manager.
-            6. Application License Retention & Documentation wizard. 
+            3. Built and managed PC images and application deployments with Windows SCCM and related technologies.
+            4. VMWorkstation, ESXi, vSphere, and Hyper-V virtual environments for testing & production.
+            5. Configured remote deployment & inventory management tools for Windows, iOS, & Android Devices through Cisco Meraki MDM, Android for Work, and Apple Business Manager.
+            6. Kept documentation of Application Licenses. 
             7. Tested and evaluated new software & hardware for each departments various needs.
-            8. Maintains WSUS & Microsft Updates for Domain Workstations.
-            9. Troubleshoots and Administers VoIP Phone System on Cisco’s Unified Call Manager Solution.
-            10. Managed the technical administration and hardware of the Verizon Wireless Government Account. 
-            11. Purchase Administrator of new PCs, servers, peripheries, and various equipment.
+            8. Maintained WSUS & Microsoft Updates for Domain Workstations.
+            9. Troubleshot and was Admin to the  VoIP Phone System on Cisco’s Unified Call Manager.
+            10. Managed the technical administration and hardware for the Verizon Wireless Government Account. 
+            11. Purchaser of new PCs, servers, peripheries, and other various equipment for our technical needs.
             12. Wrote training manuals and various documentation for internal IT staff and city staff.
-            13. Built, supported, and maintained systems and equipment related to Steamboat TV6, setting up program 14.14. Scheduled, and recording and directing live T.V. broadcasts of City Council, Commission meetings, School Meetings, and other broadcast as needed.
+            13. Built, supported, and maintained systems and equipment related to Steamboat TV6
+            14. Scheduled, recorded and directed live T.V. broadcasts of City Council, Commission meetings, School Meetings, and other broadcast as needed.
             15. Provided	post-production editing	of audio & video files. 
             16. Built supported and maintained conference room systems for city employees and citizens. 
-            17. Supported City’s CCTV systems.
+            17. Supported the CCTV systems at the facilities.
 
             Projects I've worked on:
             1. The original "Dueling Networks" solution for Police Car / Body camera off-load.
             2. The "Mission Critical Notchoes" Mobile Carrier Network Hotsport Solution.
+            3. Swtiching CF-31's for iPad Pro's in our Ambulances & Fire Vehicles.
+            4. The "Windows 10 Implimentation" & related Office 365 "COVID Responce Rollout".
+
       - layout: left
         title: Computhink
         link: Computhink.com
@@ -100,6 +104,21 @@ content:
         quote: >
             This application will OCR from the printer and it's intsalled with how many shoehorns? 
         description: |
+            What did I do back then?
+            1. Responsible for the continued maintenance and upgrades of all internal systems, servers, and misc. hardware.
+            2. Built	and	Maintained	Lab	Environments	with:	Vista,	7,	8.x,	10,	WinSer	2008,	WinSer	2012, and Linux Distros.
+            3. Administrator to Salesforce, Desk.com, Azure Services, SQL Servers: 2008, 2012, 2014.
+            4. Administrator to VMWare environments: ESXi 5.0 - 6.5, Workstation, VSphere and Veeam.
+            5. Administrator to and Supervision of Snapengage Support / Sales Chat Client.
+            6. Administrator to VoIP phone systems RingCentral & 8x8.
+            7. Technical Admin. of Wordpress.org platform websites and cloud hosted services through Rackspace.
+            8. Responsible for Domain Certificate compliance.
+            9. Administrator of domain services: SMB, NFS, ADS, LDAP, DNS, Print Services, DHCP.
+            10. Client software support and upgrades for Contenverse and related dependencies.
+            11. Maintain and check for backups of all in house servers, and their redundancies.
+            12. Maintain archival data, systems and user information as defined by policy.
+            13. Rebuilt knowledge base and support forms for clients and internal IT & Sales staff.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
