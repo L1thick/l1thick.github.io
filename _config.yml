@@ -120,19 +120,28 @@ content:
             13. Rebuilt knowledge base and support forms for clients and internal IT & Sales staff.
 
 
-  - title: Education
+  - title: Education & Certifications
     layout: list
     content:
       - layout: left
         title: Southern New Hampshire University
         caption: 2020 - 2023
         description: | 
-          Working towards my BS in Computer Science with a focus on Software Engineering
+          Working towards my BS in Computer Science with a focus on Software Engineering.
       - layout: left
-        title: Southern New Hampshire University
-        caption: 2020 - 2023
+        title: Microsoft Certified Solutions Associate, Windows 10 (MCSA)
+        caption: Feb 2019
         description: | 
-          Working towards my BS in Computer Science with a focus on Software Engineering
+          Windows 10 is EoL in 2025, so thats cool!
+        title: Microsoft Certified Professional (MCP)
+        caption: Oct 2018
+        description: | 
+          You get a cert, and you get a cert!
+      - layout: left
+        title: Trident International University
+        caption: 2012 - 2013
+        description: | 
+          Studies towards a BS in Computer Science; incomplete. 
 
   - title: A Little More About Me
     layout: text
