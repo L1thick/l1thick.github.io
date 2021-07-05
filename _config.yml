@@ -1,0 +1,114 @@
+# Site
+repository: L1thick/resume
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Robert Wagner
+title: Suport Specialist
+email: RobertDWagner@iCloud.com
+website: www.github.com/L1thick/resume
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+# twitter_username: 
+github_username:  L1thick
+# stackoverflow_username:
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username:
+linkedin_username: RobertDWagner
+# xing_username:
+# pinterest_username:
+youtube_username: robert-w-067b811b4
+# googleplus_username:
+# orcid_username:
+
+# Additional icon links
+additional_links:
+- title: Test
+  icon: fas fa-globe
+  url: https://www.google.com
+# - title:
+#   icon: 
+#   url: 
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpeg
+about_content: |
+  Hi, my name's Rob
+
+  I am most skilled with: Microsoft <mark>SCCM</mark> & related Deployment Tools, Cisco <mark>Meraki MDM</mark> w/ Apple Business Manager (<mark>ABM</mark>), Microsoft <mark>Windows 10</mark> & Apple <mark>macOS/ iOS</mark>.
+
+content:
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: My Current Projects
+        link: github.com/L1thick
+        # link_text: 
+        additional_links:
+          - title:  Extr3mis microK8's Cluster
+            icon: fab fa-github
+            url: github.com/l1thick/extremis
+          # - title:
+          #   icon:
+          #   url:
+        quote: >
+          I don't know what I'm doing, and I'm too afraid to ask at this point.
+        description: | 
+          One Raspberry Pi 4 and four Raspberry Pi 3's, this cluster is the main hub for all my hosted applications on Docker. Ubuntu Server 20 is the host OS for the systems; the Pi3s are used as the node systems while the Pi4 is the master.
+
+  - title: Past Professional Experience
+    layout: list
+    content:
+      - layout: left
+        title: The City of Steamboat Springs, Colorado
+        link: steamboatsprings.net
+        # link_text: 
+        sub_title: Suppost Specialist
+        caption: June 2016 - June 2021
+        quote: >
+          We've been using that DOS applicaiton since the 90's; Please make it work again!
+        description: |
+            Every company needs its networks
+
+  - title: All the Education
+    layout: list
+    content:
+      - layout: left
+        title: Southern New Hampshire University
+        caption: 2020 - 2023
+        sub_title: Studies towards a BS Computer Science - Software Engineering
+
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Alongside my interests in system and software engineering, I also like to:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+
+# Footer
+footer_show_references: true
+# references_title:
+  References on request
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
