@@ -99,24 +99,24 @@ content:
         title: Computhink
         link: Computhink.com
         # link_text: Computhink
-        sub_title: Software Engineer
+        sub_title: System Engineer
         caption: June 2014 - June 2016
         quote: >
             This application will OCR from the printer and it's intsalled with how many shoehorns? 
         description: |
             What did I do back then?
             1. Responsible for the continued maintenance and upgrades of all internal systems, servers, and misc. hardware.
-            2. Built	and	Maintained	Lab	Environments	with:	Vista,	7,	8.x,	10,	WinSer	2008,	WinSer	2012, and Linux Distros.
+            2. Built and	Maintained Lab	Environments	with:	Vista,	7,	8.x,	10,	Windows Server 2008, 2012, and various Linux Distros.
             3. Administrator to Salesforce, Desk.com, Azure Services, SQL Servers: 2008, 2012, 2014.
-            4. Administrator to VMWare environments: ESXi 5.0 - 6.5, Workstation, VSphere and Veeam.
+            4. Administrator to VMWare environments: ESXi 5.0 - 6.5, Workstation, VSphere and Veeam Backup & Replication.
             5. Administrator to and Supervision of Snapengage Support / Sales Chat Client.
-            6. Administrator to VoIP phone systems RingCentral & 8x8.
-            7. Technical Admin. of Wordpress.org platform websites and cloud hosted services through Rackspace.
+            6. Administrator to VoIP phone systems on  RingCentral and 8x8.
+            7. Technical Admin of Wordpress.org websites and cloud hosted services through Rackspace.
             8. Responsible for Domain Certificate compliance.
             9. Administrator of domain services: SMB, NFS, ADS, LDAP, DNS, Print Services, DHCP.
             10. Client software support and upgrades for Contenverse and related dependencies.
             11. Maintain and check for backups of all in house servers, and their redundancies.
-            12. Maintain archival data, systems and user information as defined by policy.
+            12. Maintain archival data of systems and user information as defined by policy.
             13. Rebuilt knowledge base and support forms for clients and internal IT & Sales staff.
 
 
