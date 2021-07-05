@@ -39,7 +39,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | 
-  Hi, my name's Rob. I'm pretty good Systems Administrator with experiance with independantly managing 300+ Windows based work stations & laptops, 100+ <mark>iOS</mark> & <mark>Android</mark> devices, and 200+ <mark>VoIP</mark> and Cell Phones simultaneously. Most of my background is in manageing and deploying Windows based devices, however I've branch out into <mark>Apple Business Manager</mark> & <mark> Android for Work</mark> as part of the ever growing mobile work force. 
+  Hi, my name's Rob. I'm a pretty good Systems Administrator with experiance with independantly managing 300+ Windows based work stations & laptops, 100+ <mark>iOS</mark> & <mark>Android</mark> devices, and 200+ <mark>VoIP</mark> and Cell Phones simultaneously. Most of my background is in manageing and deploying Windows based devices, however I've branch out into <mark>Apple Business Manager</mark> & <mark> Android for Work</mark> as part of the ever growing mobile work force. 
   
   When I'm not working with enterprise systems, I'm spening time working on my HomeLab which runs <mark>Linux Servers</mark> and <mark>Docker</mark> with <mark>Kubernetes</mark> for various web services I run. There have been a few itterations to my network that have seen differnet <mark>VPN</mark> servers, an occasional <mark>ESXi</mark> host, different Docker Nodes, a few different <mark>Raspberry Pi</mark> or <mark>Arduini</mark> setups.
 
