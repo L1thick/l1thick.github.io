@@ -133,6 +133,7 @@ content:
         caption: Feb 2019
         description: | 
           Windows 10 is EoL in 2025, so thats cool!
+      - layout: left
         title: Microsoft Certified Professional (MCP)
         caption: Oct 2018
         description: | 
