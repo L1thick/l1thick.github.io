@@ -91,31 +91,25 @@ content:
             Projects I've worked on:
             1. The original "Dueling Networks" solution for Police Car / Body camera off-load.
             2. The "Mission Critical Notchoes" Mobile Carrier Network Hotsport Solution.
+      - layout: left
+        title: Computhink
+        link: Computhink.com
+        # link_text: Computhink
+        sub_title: Software Engineer
+        caption: June 2014 - June 2016
+        quote: >
+            This application will OCR from the printer and it's intsalled with how many shoehorns? 
+        description: |
 
-          title: Computhink
-          link: Computhink.com
-          # link_text: Computhink
-          sub_title: Software Engineer
-          caption: June 2014 - June 2016
-          quote: >
-              This application will OCR from the printer and it's intsalled with how many shoehorns? 
-          description: |
-
-  - title: Education 
-    layout: list 
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Southern New Hampshire University
         caption: 2020 - 2023
         sub_title: BS in Computer Science - Software Engineering
-        description: |
+        description: | # this will include new lines to allow paragraphs
           Words words words
-        title: Trident University
-        caption: 2011 - 2012
-        sub_title: Studies towards a BS in Computer Science
-        description: |
-          Words words words
-
 
   - title: A Little More About Me
     layout: text
