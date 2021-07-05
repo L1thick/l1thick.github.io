@@ -39,13 +39,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | 
-  *Note: I'm currently working on this. I broke it recently and needed to start from scratch. Stand by - 7/5/21
+  Hey, my name’s Rob. I’m a pretty good Systems Administrator / Engineer and MCSA who has experience deploying: Windows, iOS, and android devices. I also administer and manage them through their lifecycles with various remote tools from Meraki MDM or Microsoft SCCM. I’ve built the solutions from the ground up and kept constant updates and changes throughout. I also have the experience from my time in helpdesk and support ticket heavy aspects of the IT sphere. 
   
-  Hi, my name's Rob. I'm a pretty good Systems Administrator with experience with independently managing 300+ Windows based work stations & laptops, 100+ iOS & Android devices, and 200+ VoIP and Cell Phones simultaneously. Most of my background is in managing and deploying Windows based devices.
-  
-  When I'm not working with enterprise systems, I'm spending time working on my HomeLab which runs <mark>Linux Servers</mark> with <mark>Docker</mark> docker <mark>Kubernetes</mark> for the various web services I run. There have been a few iterations to my <.mark>homelab</mark> that have seen different <mark>VPN</mark> servers, an occasional <mark>ESXi</mark> host, a few different <mark>Raspberry Pi</mark> or <mark>Arduino</mark> setups.
-
-  The primary technologies I use daily or are most proficient in include: Microsoft <mark>SCCM</mark> & related Deployment Tools, Cisco <mark>Meraki MDM</mark> w/ <mark>Apple Business Manager</mark>, Microsoft <mark>Windows 10</mark> & Apple <mark>macOS/ iOS</mark>, Ubiquity <mark>Unifi</mark> Network Manager & Hardware, VMware <mark>vSphere</mark> <mark>ESXi 6.7</mark> and other related <mark>VMWare</mark> products and <mark>VEEAM</mark>.
+  When I’m not working with enterprise systems, I’m spending time working on my HomeLab. Here I’ve learned and deploy Docker for various service I’ll host; I’m a heavy PLEX user. I’ve begun to work with Kubernetes in a cluster project, and am always learning various programming languages to meet my goals. My homelab has also allowed me to keep my skills for the enterprise sharp, as I deploy many of the tools at home such as Veeam and vSphere. 
 
 content:
   - title: Projects
