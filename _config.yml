@@ -143,6 +143,12 @@ content:
         caption: 2012 - 2013
         description: | 
           Studies towards a BS in Computer Science; incomplete. 
+      - layout: left
+        title: Moraine Valley Community College
+        caption: 2009 - 2012
+        description: | 
+          Computer Support Associate Certification: Computer & LAN Technician
+          Computer Support Associate Certification: Computer Technician   
 
   - title: A Little More About Me
     layout: text
