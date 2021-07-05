@@ -48,15 +48,21 @@ about_content: |
   The primary technologies I use daily or are most proficient in include: Microsoft <mark>SCCM</mark> & related Deployment Tools, Cisco <mark>Meraki MDM</mark> w/ Apple Business Manager (<mark>ABM</mark>), Microsoft <mark>Windows 10</mark> & Apple <mark>macOS/ iOS</mark>, Ubiquity <mark>Unifi</mark> Network Manager & Hardware, VMware vSphere <mark>ESXi 6.7</mark> and other related VMWare Products (<mark>VEEAM B&R</mark>).
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title:  Extr3mis microK8's Cluster
         quote: >
           I've learned to do it wrong enough ways to keep failing correctly. 
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Extremis is a 5 node Raspberry Pi Cluster that runs various Web Services through Docker. The master node is a Pi 4 4GB, while the nodes are the 3B+ boards. 
+      - layout: top-middle
+        title:  Ubiquity Unifi Network
+        quote: >
+          No one needs enterprise gear for their home; but it's cool. 
+        description: | 
+          It's the full stack with a Raspberry Pi 3B+ running the controller software. A wireless mesh network was recently setup with two AP's. The network has a guest wifi, IoT wifi, and the VLAN configuration to secure the traffic with blocking on the firewall. Thanks to the Extremis Project, the network is also protected by a PiHole, has PiVPN, and other home automation services that require this gear to function properly.  
 
   - title: Experience 
     layout: list 
@@ -94,6 +100,7 @@ content:
             2. The "Mission Critical Notchoes" Mobile Carrier Network Hotsport Solution.
             3. Swtiching CF-31's for iPad Pro's in our Ambulances & Fire Vehicles.
             4. The "Windows 10 Implimentation" & related Office 365 "COVID Responce Rollout".
+            5. The DOS Emulated Records Database. No really, in 2017.
 
       - layout: left
         title: Computhink
