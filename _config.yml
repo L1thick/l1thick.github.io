@@ -58,19 +58,38 @@ content:
         description: | # this will include new lines to allow paragraphs
           Extremis is a 5 node Raspberry Pi Cluster that runs various Web Services through Docker. The master node is a Pi 4 4GB, while the nodes are the 3B+ boards. 
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience 
+    layout: list 
     content:
       - layout: left
         title: The City of Steamboat Springs
         link: SteamboatSprings.net
-        # link_text: steamboatsprings.net
+        # link_text: City Webpage
         sub_title: Support Specialist
         caption: June 2016 - June 2021
         quote: >
           That DOS Program from the 90s is mission critial. Please, find a way to make it work.
-        description: | # this will include new lines to allow paragraphs
-            Government.
+        description: |
+            Supported Windows XP, 7, 8.x, & 10, macOS, iOS, and Android systems.
+            Supported BYOD systems for end users and citizens.
+            Built and managed PC images and application deployments with Windows SCCM, MDT, PXE, USMT, UDI, Software Center, and related technologies.
+            VMWorkstation, ESXi, vSphere, and Hyper-V virtual environments.
+            Configured remote deployment & inventory management tools for Windows iOS & Android Devices through Cisco Meraki MDM, Android for Work, and Apple Business Manager.
+            Application License Retention & Documentation wizard. 
+            Tested and evaluated new software & hardware for each departments various needs.
+            Maintains WSUS & Microsft Updates for Domain Workstations.
+            Troubleshoots and Administers VoIP Phone System on Cisco’s Unified Call Manager Solution.
+            Managed the technical administration and hardware of the Verizon Wireless Government Account. 
+            Purchase Administrator of new PCs, servers, peripheries, and various equipment.
+            Wrote training manuals and various documentation for internal IT staff and city staff.
+            Built, supported, and maintained systems and equipment related to Steamboat TV6, setting up program schedules, and recording and directing live T.V. broadcasts of City Council, Commission meetings, School Meetings, and other broadcast as needed.
+            Provided	post-production editing	of audio & video files. 
+            Built supported and maintained conference room systems for city employees and citizens. 
+            Supported City’s CCTV systems.
+
+            Some "Nicknamed" projects I've worked on while employed at the city:
+            1. Enginered "Dueling Networks" solution for Police Car / Body camera off-load.
+            2. The "Mission Critical Notchoes" Mobile Carrier Network Hotsport Solution.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
