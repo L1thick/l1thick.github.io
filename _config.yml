@@ -70,12 +70,12 @@ content:
         quote: >
           That DOS Program from the 90s is mission critial. Please, find a way to make it work.
         description: |
-            Supported Windows XP, 7, 8.x, & 10, macOS, iOS, and Android systems.
-            Supported BYOD systems for end users and citizens.
-            Built and managed PC images and application deployments with Windows SCCM, MDT, PXE, USMT, UDI, Software Center, and related technologies.
-            VMWorkstation, ESXi, vSphere, and Hyper-V virtual environments.
-            Configured remote deployment & inventory management tools for Windows iOS & Android Devices through Cisco Meraki MDM, Android for Work, and Apple Business Manager.
-            Application License Retention & Documentation wizard. 
+            1. Supported Windows XP, 7, 8.x, & 10, macOS, iOS, and Android systems.
+            2. Supported BYOD systems for end users and citizens.
+            3. Built and managed PC images and application deployments with Windows SCCM, MDT, PXE, USMT, UDI, Software Center, and related technologies.
+            4. VMWorkstation, ESXi, vSphere, and Hyper-V virtual environments.
+            5. Configured remote deployment & inventory management tools for Windows iOS & Android Devices through Cisco Meraki MDM, Android for Work, and Apple Business Manager.
+            6. Application License Retention & Documentation wizard. 
             Tested and evaluated new software & hardware for each departments various needs.
             Maintains WSUS & Microsft Updates for Domain Workstations.
             Troubleshoots and Administers VoIP Phone System on Cisco’s Unified Call Manager Solution.
@@ -87,8 +87,8 @@ content:
             Built supported and maintained conference room systems for city employees and citizens. 
             Supported City’s CCTV systems.
 
-            Some "Nicknamed" projects I've worked on while employed at the city:
-            1. Enginered "Dueling Networks" solution for Police Car / Body camera off-load.
+            Some "Nicknamed" projects I've worked:
+            1. "Dueling Networks" solution for Police Car / Body camera off-load.
             2. The "Mission Critical Notchoes" Mobile Carrier Network Hotsport Solution.
 
   - title: Education # Title for the section
