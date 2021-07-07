@@ -34,7 +34,7 @@ about_profile_image: images/profile.jpg
 about_content: | 
   Hey, my name’s Rob. I’m a pretty good Systems Administrator / Engineer and MCSA who has experience deploying: Windows, iOS, and Android devices. I also administer and manage them through their lifecycles with various remote tools from Meraki MDM or Microsoft SCCM. I’ve built the solutions from the ground up and kept constant updates and changes throughout. I also have the experience from my time in helpdesk and support ticket heavy aspects of the IT sphere. 
   
-  When I’m not working with enterprise systems, I’m spending time working on my HomeLab. Here I’ve learned and deploy Docker for various service I’ll host; I’m a heavy PLEX user. I’ve begun to work with Kubernetes in a cluster project, and am always learning various programming languages to meet my goals. My homelab has also allowed me to keep my skills for the enterprise sharp, as I deploy many of the tools at home such as Veeam and vSphere. 
+  When I’m not working with enterprise systems, I’m spending time working on my HomeLab. Here I’ve learned and deploy Docker for various service I’ll host; I’m a heavy PLEX user. I’ve begun to work with Kubernetes in a k8 cluster project, and am always learning various programming languages to meet my goals. My homelab has also allowed me to keep my skills for the enterprise sharp, as I deploy many of the tools at home such as Veeam and vSphere. 
 
 content:
   - title: Homelab Projects
