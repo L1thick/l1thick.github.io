@@ -15,26 +15,18 @@ website: https://l1thick.github.io/
 darkmode: false
 
 # Social links
-# twitter_username: 
 github_username:  L1thick
 # stackoverflow_username:
-# dribbble_username:
-# facebook_username:
 # flickr_username:
-# instagram_username:
 linkedin_username: robert-w-067b811b4
-# xing_username:
-# pinterest_username:
-# youtube_username:
-# googleplus_username:
-# orcid_username:
+# youtube_username: !broken!
 
 # Additional icon links
-# https://fontawesome.com/icons?d=gallery&m=free
+# Icons Linked Here: https://fontawesome.com/icons?d=gallery&m=free
 additional_links:
   - title: Youtube
     icon: fab fa-youtube
-    url: https://www.youtube.com/channel/UCnaVY7W6rN0kgV1RcFvo8uw
+    url: https://www.youtube.com/channel/UCnaVY7W6rN0kgV1RcFvo8uw/videos
 
 # About Section
 about_title: About Me
@@ -53,7 +45,7 @@ content:
         quote: >
           I've learned to do it wrong enough ways to keep failing correctly. 
         description: | 
-          Extremis is a 5 node Raspberry Pi Cluster that runs various Web Services through Docker. The master node is a Pi 4 4GB, while the nodes are the 3B+ boards. 
+          Extremis is a 5 node Raspberry Pi Cluster that runs various Web Services through Docker. The master node is a Pi 4 4GB, while the nodes are the 3B+ boards. I haven't booted this up since I moved across country, but the intent was to stand all my web servies up here: MKV Metadata & Conversion Tools, Metadata Agents, Download Services over VPN, NGINX Reverse Proxy Server, Home Automation tools, Pi-Hole DNS, PiVPN, a PLEX DirectPlay Server, ect. 
       - layout: top-middle
         title:  Ubiquity Unifi Network
         quote: >
