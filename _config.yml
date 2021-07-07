@@ -1,5 +1,5 @@
 # Site
-repository: L1thick/resume
+repository:  L1thick/L1thick.github.io 
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -25,26 +25,27 @@ github_username:  L1thick
 linkedin_username: robert-w-067b811b4
 # xing_username:
 # pinterest_username:
-youtube_username: UCnaVY7W6rN0kgV1RcFvo8uw
+# youtube_username:
 # googleplus_username:
 # orcid_username:
 
 # Additional icon links
+# https://fontawesome.com/icons?d=gallery&m=free
 additional_links:
-# - title:
-#   icon: (https://fontawesome.com/icons?d=gallery&m=free)
-#   url:
+  - title: Youtube
+  icon: fab fa-youtube
+  url: https://www.youtube.com/channel/UCnaVY7W6rN0kgV1RcFvo8uw
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | 
-  Hey, my name’s Rob. I’m a pretty good Systems Administrator / Engineer and MCSA who has experience deploying: Windows, iOS, and android devices. I also administer and manage them through their lifecycles with various remote tools from Meraki MDM or Microsoft SCCM. I’ve built the solutions from the ground up and kept constant updates and changes throughout. I also have the experience from my time in helpdesk and support ticket heavy aspects of the IT sphere. 
+  Hey, my name’s Rob. I’m a pretty good Systems Administrator / Engineer and MCSA who has experience deploying: Windows, iOS, and Android devices. I also administer and manage them through their lifecycles with various remote tools from Meraki MDM or Microsoft SCCM. I’ve built the solutions from the ground up and kept constant updates and changes throughout. I also have the experience from my time in helpdesk and support ticket heavy aspects of the IT sphere. 
   
   When I’m not working with enterprise systems, I’m spending time working on my HomeLab. Here I’ve learned and deploy Docker for various service I’ll host; I’m a heavy PLEX user. I’ve begun to work with Kubernetes in a cluster project, and am always learning various programming languages to meet my goals. My homelab has also allowed me to keep my skills for the enterprise sharp, as I deploy many of the tools at home such as Veeam and vSphere. 
 
 content:
-  - title: Projects
+  - title: Homelab Projects
     layout: list
     content:
       - layout: top-middle
@@ -58,9 +59,15 @@ content:
         quote: >
           No one needs enterprise gear for their home; but it's cool. 
         description: | 
-          It's the full stack with a Raspberry Pi 3B+ running the controller software. A wireless mesh network was recently setup with two AP's. The network has a guest wifi, IoT wifi, and the VLAN configuration to secure the traffic with blocking on the firewall. Thanks to the Extremis Project, the network is also protected by a PiHole, has PiVPN, and other home automation services that require this gear to function properly.  
+          It's the full hardware stack with a Raspberry Pi 3B+ running the controller software. A wireless mesh network was recently setup with two AP's. The network has a guest wifi, IoT wifi, and the VLAN configuration to secure the traffic with blocking on the firewall. Thanks to the Extremis Project, the network is also protected by a PiHole, has PiVPN, and other home automation services that require this gear to function properly.  
+      - layout: top-middle
+        title:  HomeBrewed HomeBridge HomeKit Server
+        quote: >
+          Is "Home" the new "i"? 
+        description: | 
+          It sounds as crazy as it is; have you ever noticed Apple's support for HomeKit is limited to a few vedors? Be a real shame if the community built something that allowed you to connected unsupported devices to HomeKit and use Apple's Cloud Encryption to automate your home. With this I was able to build an "IR-Blaster" from an ESP8600 to control a soundbar through Apple HomeKit buttons. I also force my Philips Hue to function through this server to allow additional ZigBee devices to speak to Apple HomeKit. 
 
-  - title: Experience 
+  - title: Professional Experience 
     layout: list 
     content:
       - layout: left
@@ -77,7 +84,7 @@ content:
             2. Supported BYOD systems for end users and citizens.
             3. Built and managed PC images and application deployments with Windows SCCM and related technologies.
             4. VMWorkstation, ESXi, vSphere, and Hyper-V virtual environments for testing & production.
-            5. Configured remote deployment & inventory management tools for Windows, iOS, & Android Devices through Cisco Meraki MDM, Android for Work, and Apple Business Manager.
+            5. Configured remote deployment & inventory management tools for Windows, iOS, & Android Devices through Microsoft SCCM, Software Center, O365, Cisco Meraki MDM, Android for Work, and Apple Business Manager.
             6. Kept documentation of Application Licenses. 
             7. Tested and evaluated new software & hardware for each departments various needs.
             8. Maintained WSUS & Microsoft Updates for Domain Workstations.
@@ -92,12 +99,12 @@ content:
             17. Supported the CCTV systems at the facilities.
             18. Worked with ticketing system "Zendesk" & "Sysaid".
 
-            Projects I've worked on:
+            Interesting Projects I've worked on:
             1. The original "Dueling Networks" solution for Police Car / Body camera off-load.
             2. The "Mission Critical Notchoes" Mobile Carrier Network Hotsport Solution.
             3. Swtiching CF-31's for iPad Pro's in our Ambulances & Fire Vehicles.
             4. The "Windows 10 Implimentation" & related Office 365 "COVID Responce Rollout".
-            5. The DOS Emulated Records Database. No really, in 2017.
+            5. The Emulated DOS Records Database. No really, in 2017.
 
       - layout: left
         title: Computhink
