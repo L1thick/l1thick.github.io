@@ -33,8 +33,8 @@ linkedin_username: robert-w-067b811b4
 # https://fontawesome.com/icons?d=gallery&m=free
 additional_links:
   - title: Youtube
-  icon: fab fa-youtube
-  url: https://www.youtube.com/channel/UCnaVY7W6rN0kgV1RcFvo8uw
+    icon: fab fa-youtube
+    url: https://www.youtube.com/channel/UCnaVY7W6rN0kgV1RcFvo8uw
 
 # About Section
 about_title: About Me
