@@ -53,7 +53,7 @@ content:
         description: | 
           It's the full hardware stack with a Raspberry Pi 3B+ running the controller software. A wireless mesh network was recently setup with two AP's. The network has a guest wifi, IoT wifi, and the VLAN configuration to secure the traffic with blocking on the firewall. Thanks to the Extremis Project, the network is also protected by a PiHole, has PiVPN, and other home automation services that require this gear to function properly.  
       - layout: top-middle
-        title:  HomeBrewed HomeBridge HomeKit Server
+        title:  HomeBrewed HomeKit HomeBridge Server
         quote: >
           Is "Home" the new "i"? 
         description: | 
@@ -97,6 +97,7 @@ content:
             3. Swtiching CF-31's for iPad Pro's in our Ambulances & Fire Vehicles.
             4. The "Windows 10 Implimentation" & related Office 365 "COVID Responce Rollout".
             5. The Emulated DOS Records Database. No really, in 2017.
+            6. "Drone Pilot Program" for buildings, snow coverage, and construction progress areial photos.
 
       - layout: left
         title: Computhink
