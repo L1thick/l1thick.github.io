@@ -76,7 +76,7 @@ content:
             2. Supported BYOD systems for end users and citizens.
             3. Built and managed PC images and application deployments with Windows SCCM and related technologies.
             4. VMWorkstation, ESXi, vSphere, and Hyper-V virtual environments for testing & production.
-            5. Configured remote deployment & inventory management tools for Windows, iOS, & Android Devices through Microsoft SCCM, Software Center, O365, Cisco Meraki MDM, Android for Work, and Apple Business Manager.
+            5. Configured remote deployment & inventory management tools for Windows, iOS, & Android Devices through Software Center, Office 365, Cisco Meraki MDM, Android for Work, and Apple Business Manager.
             6. Kept documentation of Application Licenses. 
             7. Tested and evaluated new software & hardware for each departments various needs.
             8. Maintained WSUS & Microsoft Updates for Domain Workstations.
@@ -105,7 +105,7 @@ content:
         sub_title: System Engineer
         caption: June 2014 - June 2016
         quote: >
-            This application will OCR from the printer and it's intsalled with how many shoehorns? 
+            This application will OCR from the MFP and it's intsalled with how many shoehorns? 
         description: |
             What did I do back then?
             1. Responsible for the continued maintenance and upgrades of all internal systems, servers, and misc. hardware.
